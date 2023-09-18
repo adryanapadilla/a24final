@@ -1,0 +1,28 @@
+#hero h1 {
+	font-size: 70px;
+	color:#FFFFFF;
+}
+
+#written {
+	align-content: center;
+	padding: 50px 0;
+}
+
+#written h2{
+	font-size: 70px;
+	color:#000000;
+}
+#written h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#text p{
+	font-size: 20px;
+	align-content: center;
+	text-align:justify;
+	padding: inherit;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
